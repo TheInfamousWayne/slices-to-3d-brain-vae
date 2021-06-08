@@ -258,4 +258,6 @@ dmypy.json
 
 data/nifti/
 
+data/
+
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,pycharm,python
